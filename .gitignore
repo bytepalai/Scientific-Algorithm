@@ -1,0 +1,4 @@
+# Ignore Models
+model_12.h5
+yolov3.weights
+model.h5
